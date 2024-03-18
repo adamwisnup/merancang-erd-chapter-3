@@ -1,4 +1,5 @@
 ## Kelompok 1
-- Adam Wisnu
+
+- Adam Wisnu Pradana
 - Ahmad Zahid Taqiyuddin
 - Mirza Hafiz Muhammad
